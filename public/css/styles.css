@@ -1,0 +1,39 @@
+body {
+    background-color: salmon;
+    font-family: 'Comforter', cursive;
+}
+
+h1 {
+    font-family: serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 24px;
+}
+
+p strong {
+    background-color: orange;
+    color: white;
+    font-style: italic;
+}
+
+strong {
+    color: gold;
+}
+
+.parrafo-destacado {
+    color: green;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.parrafo-destacado em {
+    color:red;
+    text-transform: uppercase;
+}
